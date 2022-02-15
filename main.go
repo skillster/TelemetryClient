@@ -43,6 +43,7 @@ type StreamData struct {
 // 	BlueLightsDisabled 				- Turned off blue lights on vehicle
 //  ForgotTurnIndicator
 //  MolestedWildlife				- Drove too fast near wildlife
+//  EncounterWildlife				- Driver encounters wildlife, at this point the driver should be able to see and react to the wildlife
 //  RedLightPenalty					- Did not stop for a red light
 //  BaleDamage
 //  GoodDistanceToFire
